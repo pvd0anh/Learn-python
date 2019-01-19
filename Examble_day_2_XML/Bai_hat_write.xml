@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<DANH_SACH>
+	<BAI_HAT>
+		<ten>hello</ten>
+		<nước>my</nước>
+		<nam>2001</nam>
+	</BAI_HAT>
+	<BAI_HAT>
+		<ten>byebye</ten>
+		<nước>anh</nước>
+		<nam>2002</nam>
+	</BAI_HAT>
+	<BAI_HAT>
+		<ten>hi</ten>
+		<nước>phap</nước>
+		<nam>2003</nam>
+	</BAI_HAT>
+</DANH_SACH>

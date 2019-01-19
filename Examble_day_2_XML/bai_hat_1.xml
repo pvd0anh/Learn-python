@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DANH_SACH>
+    <BAI_HAT ten="Donna" nam="1988" nuoc="Anh" />
+    <BAI_HAT ten="Woman in love" nam="1985" nuoc="Mỹ" />
+    <BAI_HAT ten="Kiss in the rain" nam="1985" nuoc="Mỹ" />
+    <BAI_HAT ten="The Green Field" nam="1976" nuoc="Anh" />
+    <BAI_HAT ten="Happy new year" nam="1989" nuoc="Thụy Điển" />
+</DANH_SACH>

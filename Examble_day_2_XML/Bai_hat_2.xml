@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DANH_SACH>
+    <BAI_HAT ten="Donna" nam="1988" nuoc="Anh">
+        <THE_LOAI>Tình cảm</THE_LOAI>
+        <CA_SI>JOAN BAEZ</CA_SI>
+    </BAI_HAT>
+    <BAI_HAT ten="Woman in love" nam="1985" nuoc="Mỹ">
+        <THE_LOAI>Lãng mạn</THE_LOAI>
+        <CA_SI>Barbra Streisand</CA_SI>
+    </BAI_HAT>
+    <BAI_HAT ten="Kiss in the rain" nam="1985" nuoc="Mỹ">
+        <THE_LOAI>Hòa tấu</THE_LOAI>
+        <CA_SI>Yiruma</CA_SI>
+    </BAI_HAT>
+    <BAI_HAT ten="The Green Field" nam="1976" nuoc="Anh">
+        <THE_LOAI>Đồng quê</THE_LOAI>
+        <CA_SI>Brothers Four</CA_SI>
+    </BAI_HAT>
+    <BAI_HAT ten="Happy new year" nam="1989" nuoc="Thụy Điển">
+        <THE_LOAI>Pop</THE_LOAI>
+        <CA_SI>ABBA</CA_SI>
+    </BAI_HAT>
+</DANH_SACH>
