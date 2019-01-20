@@ -1,0 +1,646 @@
+{
+    "nhan_vien": [
+        {
+            "first_name": "Steven",
+            "last_name": "King",
+            "salary": 24000.0,
+            "hire date": "17/06/2003"
+        },
+        {
+            "first_name": "Neena",
+            "last_name": "Kochhar",
+            "salary": 17000.0,
+            "hire date": "21/09/2005"
+        },
+        {
+            "first_name": "Lex",
+            "last_name": "De Haan",
+            "salary": 17000.0,
+            "hire date": "13/01/2001"
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "Hunold",
+            "salary": 9000.0,
+            "hire date": "03/01/2006"
+        },
+        {
+            "first_name": "Bruce",
+            "last_name": "Ernst",
+            "salary": 6000.0,
+            "hire date": "21/05/2007"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Austin",
+            "salary": 4800.0,
+            "hire date": "25/06/2005"
+        },
+        {
+            "first_name": "Valli",
+            "last_name": "Pataballa",
+            "salary": 4800.0,
+            "hire date": "05/02/2006"
+        },
+        {
+            "first_name": "Diana",
+            "last_name": "Lorentz",
+            "salary": 4200.0,
+            "hire date": "07/02/2007"
+        },
+        {
+            "first_name": "Nancy",
+            "last_name": "Greenberg",
+            "salary": 12008.0,
+            "hire date": "17/08/2002"
+        },
+        {
+            "first_name": "Daniel",
+            "last_name": "Faviet",
+            "salary": 9000.0,
+            "hire date": "16/08/2002"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Chen",
+            "salary": 8200.0,
+            "hire date": "28/09/2005"
+        },
+        {
+            "first_name": "Ismael",
+            "last_name": "Sciarra",
+            "salary": 7700.0,
+            "hire date": "30/09/2005"
+        },
+        {
+            "first_name": "Jose Manuel",
+            "last_name": "Urman",
+            "salary": 7800.0,
+            "hire date": "07/03/2006"
+        },
+        {
+            "first_name": "Luis",
+            "last_name": "Popp",
+            "salary": 6900.0,
+            "hire date": "07/12/2007"
+        },
+        {
+            "first_name": "Den",
+            "last_name": "Raphaely",
+            "salary": 11000.0,
+            "hire date": "07/12/2002"
+        },
+        {
+            "first_name": "Alexander",
+            "last_name": "Khoo",
+            "salary": 3100.0,
+            "hire date": "18/05/2003"
+        },
+        {
+            "first_name": "Shelli",
+            "last_name": "Baida",
+            "salary": 2900.0,
+            "hire date": "24/12/2005"
+        },
+        {
+            "first_name": "Sigal",
+            "last_name": "Tobias",
+            "salary": 2800.0,
+            "hire date": "24/07/2005"
+        },
+        {
+            "first_name": "Guy",
+            "last_name": "Himuro",
+            "salary": 2600.0,
+            "hire date": "15/11/2006"
+        },
+        {
+            "first_name": "Karen",
+            "last_name": "Colmenares",
+            "salary": 2500.0,
+            "hire date": "10/08/2007"
+        },
+        {
+            "first_name": "Matthew",
+            "last_name": "Weiss",
+            "salary": 8000.0,
+            "hire date": "18/07/2004"
+        },
+        {
+            "first_name": "Adam",
+            "last_name": "Fripp",
+            "salary": 8200.0,
+            "hire date": "10/04/2005"
+        },
+        {
+            "first_name": "Payam",
+            "last_name": "Kaufling",
+            "salary": 7900.0,
+            "hire date": "01/05/2003"
+        },
+        {
+            "first_name": "Shanta",
+            "last_name": "Vollman",
+            "salary": 6500.0,
+            "hire date": "10/10/2005"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Mourgos",
+            "salary": 5800.0,
+            "hire date": "16/11/2007"
+        },
+        {
+            "first_name": "Julia",
+            "last_name": "Nayer",
+            "salary": 3200.0,
+            "hire date": "16/07/2005"
+        },
+        {
+            "first_name": "Irene",
+            "last_name": "Mikkilineni",
+            "salary": 2700.0,
+            "hire date": "28/09/2006"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Landry",
+            "salary": 2400.0,
+            "hire date": "14/01/2007"
+        },
+        {
+            "first_name": "Steven",
+            "last_name": "Markle",
+            "salary": 2200.0,
+            "hire date": "08/03/2008"
+        },
+        {
+            "first_name": "Laura",
+            "last_name": "Bissot",
+            "salary": 3300.0,
+            "hire date": "20/08/2005"
+        },
+        {
+            "first_name": "Mozhe",
+            "last_name": "Atkinson",
+            "salary": 2800.0,
+            "hire date": "30/10/2005"
+        },
+        {
+            "first_name": "James",
+            "last_name": "Marlow",
+            "salary": 2500.0,
+            "hire date": "16/02/2005"
+        },
+        {
+            "first_name": "TJ",
+            "last_name": "Olson",
+            "salary": 2100.0,
+            "hire date": "10/04/2007"
+        },
+        {
+            "first_name": "Jason",
+            "last_name": "Mallin",
+            "salary": 3300.0,
+            "hire date": "14/06/2004"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Rogers",
+            "salary": 2900.0,
+            "hire date": "26/08/2006"
+        },
+        {
+            "first_name": "Ki",
+            "last_name": "Gee",
+            "salary": 2400.0,
+            "hire date": "12/12/2007"
+        },
+        {
+            "first_name": "Hazel",
+            "last_name": "Philtanker",
+            "salary": 2200.0,
+            "hire date": "06/02/2008"
+        },
+        {
+            "first_name": "Renske",
+            "last_name": "Ladwig",
+            "salary": 3600.0,
+            "hire date": "14/07/2003"
+        },
+        {
+            "first_name": "Stephen",
+            "last_name": "Stiles",
+            "salary": 3200.0,
+            "hire date": "26/10/2005"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Seo",
+            "salary": 2700.0,
+            "hire date": "12/02/2006"
+        },
+        {
+            "first_name": "Joshua",
+            "last_name": "Patel",
+            "salary": 2500.0,
+            "hire date": "06/04/2006"
+        },
+        {
+            "first_name": "Trenna",
+            "last_name": "Rajs",
+            "salary": 3500.0,
+            "hire date": "17/10/2003"
+        },
+        {
+            "first_name": "Curtis",
+            "last_name": "Davies",
+            "salary": 3100.0,
+            "hire date": "29/01/2005"
+        },
+        {
+            "first_name": "Randall",
+            "last_name": "Matos",
+            "salary": 2600.0,
+            "hire date": "15/03/2006"
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Vargas",
+            "salary": 2500.0,
+            "hire date": "09/07/2006"
+        },
+        {
+            "first_name": "John",
+            "last_name": "Russell",
+            "salary": 14000.0,
+            "hire date": "01/10/2004"
+        },
+        {
+            "first_name": "Karen",
+            "last_name": "Partners",
+            "salary": 13500.0,
+            "hire date": "05/01/2005"
+        },
+        {
+            "first_name": "Alberto",
+            "last_name": "Errazuriz",
+            "salary": 12000.0,
+            "hire date": "10/03/2005"
+        },
+        {
+            "first_name": "Gerald",
+            "last_name": "Cambrault",
+            "salary": 11000.0,
+            "hire date": "15/10/2007"
+        },
+        {
+            "first_name": "Eleni",
+            "last_name": "Zlotkey",
+            "salary": 10500.0,
+            "hire date": "29/01/2008"
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Tucker",
+            "salary": 10000.0,
+            "hire date": "30/01/2005"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Bernstein",
+            "salary": 9500.0,
+            "hire date": "24/03/2005"
+        },
+        {
+            "first_name": "Peter",
+            "last_name": "Hall",
+            "salary": 9000.0,
+            "hire date": "20/08/2005"
+        },
+        {
+            "first_name": "Christopher",
+            "last_name": "Olsen",
+            "salary": 8000.0,
+            "hire date": "30/03/2006"
+        },
+        {
+            "first_name": "Nanette",
+            "last_name": "Cambrault",
+            "salary": 7500.0,
+            "hire date": "09/12/2006"
+        },
+        {
+            "first_name": "Oliver",
+            "last_name": "Tuvault",
+            "salary": 7000.0,
+            "hire date": "23/11/2007"
+        },
+        {
+            "first_name": "Janette",
+            "last_name": "King",
+            "salary": 10000.0,
+            "hire date": "30/01/2004"
+        },
+        {
+            "first_name": "Patrick",
+            "last_name": "Sully",
+            "salary": 9500.0,
+            "hire date": "04/03/2004"
+        },
+        {
+            "first_name": "Allan",
+            "last_name": "McEwen",
+            "salary": 9000.0,
+            "hire date": "01/08/2004"
+        },
+        {
+            "first_name": "Lindsey",
+            "last_name": "Smith",
+            "salary": 8000.0,
+            "hire date": "10/03/2005"
+        },
+        {
+            "first_name": "Louise",
+            "last_name": "Doran",
+            "salary": 7500.0,
+            "hire date": "15/12/2005"
+        },
+        {
+            "first_name": "Sarath",
+            "last_name": "Sewall",
+            "salary": 7000.0,
+            "hire date": "03/11/2006"
+        },
+        {
+            "first_name": "Clara",
+            "last_name": "Vishney",
+            "salary": 10500.0,
+            "hire date": "11/11/2005"
+        },
+        {
+            "first_name": "Danielle",
+            "last_name": "Greene",
+            "salary": 9500.0,
+            "hire date": "19/03/2007"
+        },
+        {
+            "first_name": "Mattea",
+            "last_name": "Marvins",
+            "salary": 7200.0,
+            "hire date": "24/01/2008"
+        },
+        {
+            "first_name": "David",
+            "last_name": "Lee",
+            "salary": 6800.0,
+            "hire date": "23/02/2008"
+        },
+        {
+            "first_name": "Sundar",
+            "last_name": "Ande",
+            "salary": 6400.0,
+            "hire date": "24/03/2008"
+        },
+        {
+            "first_name": "Amit",
+            "last_name": "Banda",
+            "salary": 6200.0,
+            "hire date": "21/04/2008"
+        },
+        {
+            "first_name": "Lisa",
+            "last_name": "Ozer",
+            "salary": 11500.0,
+            "hire date": "11/03/2005"
+        },
+        {
+            "first_name": "Harrison",
+            "last_name": "Bloom",
+            "salary": 10000.0,
+            "hire date": "23/03/2006"
+        },
+        {
+            "first_name": "Tayler",
+            "last_name": "Fox",
+            "salary": 9600.0,
+            "hire date": "24/01/2006"
+        },
+        {
+            "first_name": "William",
+            "last_name": "Smith",
+            "salary": 7400.0,
+            "hire date": "23/02/2007"
+        },
+        {
+            "first_name": "Elizabeth",
+            "last_name": "Bates",
+            "salary": 7300.0,
+            "hire date": "24/03/2007"
+        },
+        {
+            "first_name": "Sundita",
+            "last_name": "Kumar",
+            "salary": 6100.0,
+            "hire date": "21/04/2008"
+        },
+        {
+            "first_name": "Ellen",
+            "last_name": "Abel",
+            "salary": 11000.0,
+            "hire date": "11/05/2004"
+        },
+        {
+            "first_name": "Alyssa",
+            "last_name": "Hutton",
+            "salary": 8800.0,
+            "hire date": "19/03/2005"
+        },
+        {
+            "first_name": "Jonathon",
+            "last_name": "Taylor",
+            "salary": 8600.0,
+            "hire date": "24/03/2006"
+        },
+        {
+            "first_name": "Jack",
+            "last_name": "Livingston",
+            "salary": 8400.0,
+            "hire date": "23/04/2006"
+        },
+        {
+            "first_name": "Kimberely",
+            "last_name": "Grant",
+            "salary": 7000.0,
+            "hire date": "24/05/2007"
+        },
+        {
+            "first_name": "Charles",
+            "last_name": "Johnson",
+            "salary": 6200.0,
+            "hire date": "04/01/2008"
+        },
+        {
+            "first_name": "Winston",
+            "last_name": "Taylor",
+            "salary": 3200.0,
+            "hire date": "24/01/2006"
+        },
+        {
+            "first_name": "Jean",
+            "last_name": "Fleaur",
+            "salary": 3100.0,
+            "hire date": "23/02/2006"
+        },
+        {
+            "first_name": "Martha",
+            "last_name": "Sullivan",
+            "salary": 2500.0,
+            "hire date": "21/06/2007"
+        },
+        {
+            "first_name": "Girard",
+            "last_name": "Geoni",
+            "salary": 2800.0,
+            "hire date": "03/02/2008"
+        },
+        {
+            "first_name": "Nandita",
+            "last_name": "Sarchand",
+            "salary": 4200.0,
+            "hire date": "27/01/2004"
+        },
+        {
+            "first_name": "Alexis",
+            "last_name": "Bull",
+            "salary": 4100.0,
+            "hire date": "20/02/2005"
+        },
+        {
+            "first_name": "Julia",
+            "last_name": "Dellinger",
+            "salary": 3400.0,
+            "hire date": "24/06/2006"
+        },
+        {
+            "first_name": "Anthony",
+            "last_name": "Cabrio",
+            "salary": 3000.0,
+            "hire date": "07/02/2007"
+        },
+        {
+            "first_name": "Kelly",
+            "last_name": "Chung",
+            "salary": 3800.0,
+            "hire date": "14/06/2005"
+        },
+        {
+            "first_name": "Jennifer",
+            "last_name": "Dilly",
+            "salary": 3600.0,
+            "hire date": "13/08/2005"
+        },
+        {
+            "first_name": "Timothy",
+            "last_name": "Gates",
+            "salary": 2900.0,
+            "hire date": "11/07/2006"
+        },
+        {
+            "first_name": "Randall",
+            "last_name": "Perkins",
+            "salary": 2500.0,
+            "hire date": "19/12/2007"
+        },
+        {
+            "first_name": "Sarah",
+            "last_name": "Bell",
+            "salary": 4000.0,
+            "hire date": "04/02/2004"
+        },
+        {
+            "first_name": "Britney",
+            "last_name": "Everett",
+            "salary": 3900.0,
+            "hire date": "03/03/2005"
+        },
+        {
+            "first_name": "Samuel",
+            "last_name": "McCain",
+            "salary": 3200.0,
+            "hire date": "01/07/2006"
+        },
+        {
+            "first_name": "Vance",
+            "last_name": "Jones",
+            "salary": 2800.0,
+            "hire date": "17/03/2007"
+        },
+        {
+            "first_name": "Alana",
+            "last_name": "Walsh",
+            "salary": 3100.0,
+            "hire date": "24/04/2006"
+        },
+        {
+            "first_name": "Kevin",
+            "last_name": "Feeney",
+            "salary": 3000.0,
+            "hire date": "23/05/2006"
+        },
+        {
+            "first_name": "Donald",
+            "last_name": "OConnell",
+            "salary": 2600.0,
+            "hire date": "21/06/2007"
+        },
+        {
+            "first_name": "Douglas",
+            "last_name": "Grant",
+            "salary": 2600.0,
+            "hire date": "13/01/2008"
+        },
+        {
+            "first_name": "Jennifer",
+            "last_name": "Whalen",
+            "salary": 4400.0,
+            "hire date": "17/09/2003"
+        },
+        {
+            "first_name": "Michael",
+            "last_name": "Hartstein",
+            "salary": 13000.0,
+            "hire date": "17/02/2004"
+        },
+        {
+            "first_name": "Pat",
+            "last_name": "Fay",
+            "salary": 6000.0,
+            "hire date": "17/08/2005"
+        },
+        {
+            "first_name": "Susan",
+            "last_name": "Mavris",
+            "salary": 6500.0,
+            "hire date": "07/06/2002"
+        },
+        {
+            "first_name": "Hermann",
+            "last_name": "Baer",
+            "salary": 10000.0,
+            "hire date": "07/06/2002"
+        },
+        {
+            "first_name": "Shelley",
+            "last_name": "Higgins",
+            "salary": 12008.0,
+            "hire date": "07/06/2002"
+        },
+        {
+            "first_name": "William",
+            "last_name": "Gietz",
+            "salary": 8300.0,
+            "hire date": "07/06/2002"
+        }
+    ]
+}
