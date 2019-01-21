@@ -1,0 +1,3 @@
+phiên bản 1.0
+- chuyển các hàm trong main sang module my_lib
+- menu_lib

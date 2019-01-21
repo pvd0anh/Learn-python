@@ -1,0 +1,8 @@
+phiên bản 1.0
+- tạo các hàm để xử lý yêu cầu
+- viết các hàm thành phần
+- thực đơn
+- kiểm tra nếu chưa nhập liệu thì thông báo và không xử lý
+- xử lý không phân biệt chữ thường/hoa
+- in từ điển và sắp tăng theo từ
+- in số từ có trong từ điển

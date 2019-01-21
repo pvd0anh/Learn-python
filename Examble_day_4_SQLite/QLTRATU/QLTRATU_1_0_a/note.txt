@@ -1,0 +1,7 @@
+phiên bản 1.0
+- tạo CSDL, tạo bảng ==> bằng lệnh SQL và thực hiện bằng tool (scrip file)
+
+- yêu cầu 1: đọc và in danh sách các từ và nghĩa
+- yêu cầu 2: nhập từ muốn tra và in ra nghĩa của từ
+- yêu cầu 3: thêm một từ mới, xóa một từ, sửa nghĩa của một từ
+
