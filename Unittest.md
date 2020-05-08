@@ -52,7 +52,7 @@ Integration test kết hợp các thành phần của một ứng dụng và ki�
 * Kiểm tra khả năng chịu tải (stress): Kiểm tra các giới hạn của hệ thống.
 
 <a name="testing_python"></a>
-##3. Testing trong Python
+## 3. Testing trong Python
 <a name="nguyen_tac_test_python"></a>
 ### 3.1. Nguyên tắc.
 * Testing unit nên tập trung chỉ vào một unit nhỏ và chứng mình được nó chính xác.
